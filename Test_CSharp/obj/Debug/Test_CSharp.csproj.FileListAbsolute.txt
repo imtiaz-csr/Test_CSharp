@@ -1,0 +1,8 @@
+F:\Imtiaz Faisal\Project\Test_CSharp\Test_CSharp\bin\Debug\Test_CSharp.exe.config
+F:\Imtiaz Faisal\Project\Test_CSharp\Test_CSharp\bin\Debug\Test_CSharp.exe
+F:\Imtiaz Faisal\Project\Test_CSharp\Test_CSharp\bin\Debug\Test_CSharp.pdb
+F:\Imtiaz Faisal\Project\Test_CSharp\Test_CSharp\obj\Debug\Test_CSharp.csproj.AssemblyReference.cache
+F:\Imtiaz Faisal\Project\Test_CSharp\Test_CSharp\obj\Debug\Test_CSharp.csproj.SuggestedBindingRedirects.cache
+F:\Imtiaz Faisal\Project\Test_CSharp\Test_CSharp\obj\Debug\Test_CSharp.csproj.CoreCompileInputs.cache
+F:\Imtiaz Faisal\Project\Test_CSharp\Test_CSharp\obj\Debug\Test_CSharp.exe
+F:\Imtiaz Faisal\Project\Test_CSharp\Test_CSharp\obj\Debug\Test_CSharp.pdb
